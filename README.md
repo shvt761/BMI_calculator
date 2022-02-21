@@ -1,3 +1,3 @@
 # BMI_Calculator
 
-Creted using Ionic framework, HTML and CSS
+Created using Ionic framework, HTML and CSS
